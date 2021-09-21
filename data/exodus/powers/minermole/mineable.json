@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_harvest",
+    "block_condition": {
+      "type": "origins:in_tag",
+      "tag": "exodus:blocks"
+    },
+    "allow": true,
+    "name":"Mineable",
+    "description":"Mine blocks with your hand"
+  }

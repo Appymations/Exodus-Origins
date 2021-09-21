@@ -1,0 +1,19 @@
+{
+  "powers": [
+    "exodus:pig/nom",
+    "exodus:pig/dried_mud",
+    "exodus:pig/smol",
+    "exodus:pig/too_smol",
+    "exodus:pig/jump",
+    "exodus:pig/iamspeed",
+    "exodus:pig/piggy_claws",
+    "exodus:pig/piggy_arms",
+    "exodus:pig/potato_king"
+
+  ],
+  "icon": "minecraft:porkchop",
+  "order": 3,
+  "impact": 3,
+  "name":"Pig",
+  "description": "Oink"
+}

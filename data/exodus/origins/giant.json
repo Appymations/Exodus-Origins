@@ -1,0 +1,29 @@
+{
+  "powers": [
+    "exodus:giant/thickskin",
+    "exodus:giant/forceful",
+    "exodus:giant/colossus",
+    "exodus:giant/clumsy",
+    "exodus:giant/bulkydiamond",
+    "exodus:giant/bulkyiron",
+    "exodus:giant/bulkygold",
+    "exodus:giant/bulkynetherite",
+    "exodus:giant/steadfast",
+    "exodus:giant/bigman",
+    "exodus:giant/more_knockback",
+    "exodus:giant/heavy",
+    "exodus:giant/increased_size",
+    "exodus:giant/throw",
+    "exodus:giant/strong",
+    "exodus:giant/reach",
+    "exodus:giant/unwieldy",
+    "exodus:giant/village_spawn",
+    "exodus:giant/too_big"
+
+  ],
+  "icon": "minecraft:iron_block",
+  "order": 10,
+  "impact": 3,
+  "name":"Giantkin",
+  "description": "Giantkin are few and far. Goliaths, like unto their forefathers, they retain some of their strength but only some of their size."
+}

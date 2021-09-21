@@ -1,0 +1,13 @@
+{
+    "type": "origins:modify_projectile_damage",
+    "damage_condition": {
+        "type": "origins:projectile",
+        "projectile": "minecraft:arrow"
+    },
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 7
+    },
+    "name":"Bow Damage",
+    "description":"Your bow damage is multiplied by 7"
+}

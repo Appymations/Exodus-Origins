@@ -1,0 +1,11 @@
+{
+    "powers": [
+      "exodus:snipermonke/bow_dmg",
+      "exodus:snipermonke/health"
+    ],
+    "icon": "minecraft:bow",
+    "order": 3,
+    "impact": 1,
+    "name":"Sniper Monke",
+    "description": "These species of monke are good with their bows..."
+  }

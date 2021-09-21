@@ -1,0 +1,14 @@
+{
+    "type": "origins:modify_break_speed",
+    "block_condition": {
+      "type": "origins:in_tag",
+      "tag": "exodus:blocks"
+    },
+    "modifier": {
+      "name": "Strong Arms stone break speed bonus",
+      "value": 3,
+      "operation": "multiply_base"
+    },
+    "name":"Fast Mine",
+    "description":"Mine blocks fast because of your experience"
+  }

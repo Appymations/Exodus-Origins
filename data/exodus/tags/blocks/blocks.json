@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stone",
+    "minecraft:infested_stone",
+    "minecraft:granite",
+    "minecraft:blackstone",
+    "minecraft:end_stone",
+    "minecraft:stone_bricks",
+    "minecraft:cobblestone",
+    "minecraft:infested_cobblestone",
+    "minecraft:infested_stone_bricks",
+    "minecraft:end_stone_bricks",
+    "minecraft:andesite",
+    "minecraft:diorite",
+    "minecraft:coal_ore",
+    "minecraft:iron_ore",
+    "minecraft:diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:redstone_ore",
+    "minecraft:lapis_ore",
+    "minecraft:gold_ore",
+    "minecraft:nether_quartz_ore"
+  ]
+}

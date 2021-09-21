@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "origins": [
+    "exodus:pig",
+    "exodus:giant",
+    "exodus:warrior",
+    "exodus:snipermonke",
+    "exodus:minermole"
+  ]
+}

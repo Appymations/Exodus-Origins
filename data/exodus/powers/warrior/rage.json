@@ -1,0 +1,43 @@
+{
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effects": [
+            {
+                "effect": "minecraft:strength",
+                "is_ambient": true,
+                "show_particles": false,
+                "show_icon": true,
+                "duration": 300,
+                "amplifier": 4
+            },
+            {
+                "effect": "minecraft:resistance",
+                "is_ambient": true,
+                "show_particles": false,
+                "show_icon": true,
+                "duration": 300,
+                "amplifier": 3
+            },
+            {
+                "effect": "minecraft:regeneration",
+                "is_ambient": true,
+                "show_particles": false,
+                "show_icon": true,
+                "duration": 300,
+                "amplifier": 2
+            }
+    ]
+        },
+        "key":{
+            "key": "key.origins.primary_active"
+      },
+    "cooldown": 600,
+        "hud_render": {
+            "should_render" : true,
+            "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+            "bar_index": 15
+        },
+        "name": "Rage",
+        "description": "You rage causing yourself to get strength 4, resistance 3 and regen 2 for 15 seconds"
+}

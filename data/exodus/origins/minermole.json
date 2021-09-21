@@ -1,0 +1,17 @@
+{
+    "powers": [
+      "origins:strong_arms",
+      "exodus:minermole/miner_hat",
+      "exodus:minermole/short",
+      "exodus:minermole/fastmine",
+      "exodus:minermole/mineable",
+      "exodus:minermole/jump",
+      "exodus:minermole/mineshaft_spawn",
+      "exodus:minermole/nightvision"
+    ],
+    "icon": "minecraft:iron_pickaxe",
+    "order": 3,
+    "impact": 2,
+    "name":"Miner Mole",
+    "description": "Miner moles dig all their lives. This causes them to be great diggers, but have trouble overground."
+  }

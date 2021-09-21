@@ -1,0 +1,10 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+      "attribute": "minecraft:generic.armor",
+      "operation": "addition",
+      "value": "15"
+  },
+  "name": "Thickskin",
+  "description": "Giantkins' large size isn't the only thing they got from their ancestors. Your skin is harder than iron."
+}

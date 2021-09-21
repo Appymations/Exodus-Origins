@@ -1,0 +1,44 @@
+  
+{
+  "type": "origins:prevent_item_use",
+  "item_condition": {
+      
+  "type": "origins:and",
+  "conditions": [
+    {
+         "type": "origins:or",
+          "conditions": [
+            {
+                "type": "origins:ingredient",
+                "ingredient":{"item": "minecraft:carrot"}
+            },
+            {
+                "type": "origins:ingredient",
+                "ingredient":{"item": "minecraft:golden_carrot"}
+            },
+            {
+                "type": "origins:ingredient",
+                "ingredient":{"item": "minecraft:porkchop"}
+            },
+            {
+                "type": "origins:ingredient",
+                "ingredient":{"item": "minecraft:baked_potato"}
+            },
+            {    
+                "type": "origins:ingredient",
+                "ingredient":{"item": "minecraft:potato"}
+            }
+          ],
+              "inverted": true
+    },
+    {      
+      "type": "origins:food"
+    }
+  ]
+      
+
+  },
+    "name": "Piggy Eater",
+  "description": "You can only eat carrots and… potatoes for some reason"
+}
+

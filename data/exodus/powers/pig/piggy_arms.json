@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "reach-entity-attributes:reach",
+        "operation": "addition",
+        "value": "3"
+    },
+    "name": "Piggy Arms",
+    "description": "Me reach 10 blok"
+}

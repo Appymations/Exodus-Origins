@@ -1,0 +1,23 @@
+  
+{
+  "type": "origins:modify_food",
+  "item_condition": {
+      
+        "type": "origins:ingredient",
+        "ingredient":{"item": "minecraft:potato"}
+  },
+    
+"food_modifier": {
+    "value": 7.0,
+    "operation": "addition"  
+    
+},
+"saturation_modifier": {
+    "value": 12.0,
+    "operation": "addition"  
+    
+},
+    "name": "Potato King",
+  "description": "You have a strange affinity for raw potatoes, receiving many times the normal food and saturation value for each one eaten"
+}
+

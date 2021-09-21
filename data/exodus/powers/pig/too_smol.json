@@ -1,0 +1,10 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.max_health",
+    "operation": "addition",
+    "value": "-6"
+  },
+  "name": "Too Smol",
+  "description": "helth lose becuz me smol"
+}

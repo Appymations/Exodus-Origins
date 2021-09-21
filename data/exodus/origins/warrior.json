@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "exodus:warrior/strength",
+    "exodus:warrior/trained",
+    "exodus:warrior/rage",
+    "exodus:warrior/gifted_by_ancestors",
+    "exodus:warrior/fast_by_nature"
+  ],
+  "icon": "minecraft:iron_sword",
+  "order": 3,
+  "impact": 2,
+  "name":"Warrior",
+  "description": "This powerful species come from Master Samurais, and have won in all their battles..."
+}

@@ -1,0 +1,27 @@
+{
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effects": [
+            {
+                "effect": "minecraft:night_vision",
+                "is_ambient": true,
+                "show_particles": false,
+                "show_icon": true,
+                "duration":600,
+                "amplifier": 3
+            }
+    ]
+        },
+        "key":{
+            "key": "key.origins.primary_active"
+      },
+    "cooldown": 300,
+        "hud_render": {
+            "should_render" : true,
+            "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+            "bar_index": 15
+        },
+        "name": "Night Vision",
+        "description": "You are well accoustommed to darkness"
+}

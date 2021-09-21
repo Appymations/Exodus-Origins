@@ -1,0 +1,17 @@
+{
+    "type":"origins:starting_equipment",
+    "stacks": [
+        {
+            "item" : "minecraft:iron_sword"
+        },
+        {
+            "item" : "minecraft:bow"
+        },
+        {
+            "item" : "minecraft:arrow",
+            "amount" : "16"
+        }
+    ],
+    "name": "Gifted by Ancestors",
+    "description": "Your ancestors gifts before setting you on your journey.."
+}

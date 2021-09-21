@@ -1,0 +1,10 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+      "attribute": "minecraft:generic.armor",
+      "operation": "addition",
+      "value": "6"
+  },
+  "name": "Dried Mud",
+  "description": "Mud attack. Mud protecc. But most importantly, mud be bacc"
+}
