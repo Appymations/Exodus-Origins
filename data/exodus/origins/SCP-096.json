@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "exodus:SCP-096/hostile-glow_effect",
+    "exodus:SCP-096/docile-trigger_hostile",
+    "exodus:SCP-096/docile-slow_effect",
+    "exodus:SCP-096/docile-attack_damage"
+
+  ],
+  "icon": "minecraft:command_block",
+  "order": 3,
+  "impact": 3,
+  "name":"SCP-096",
+  "description": "SCP-096 is normally extremely docile, however, when someone views SCP-096's face, whether it be directly, via video recording, or even a photograph, it will enter a stage of considerable emotional distress. Approximately one (1) to two (2) minutes after the first viewing, SCP-096 will begin running to the person who viewed its face (who will from this point on be referred to as SCP-096-1)."
+}

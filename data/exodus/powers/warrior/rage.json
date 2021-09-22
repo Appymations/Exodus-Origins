@@ -35,7 +35,7 @@
     "cooldown": 600,
         "hud_render": {
             "should_render" : true,
-            "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+            "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
             "bar_index": 15
         },
         "name": "Rage",
