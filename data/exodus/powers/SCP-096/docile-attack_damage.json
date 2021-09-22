@@ -5,6 +5,5 @@
         "operation": "addition",
         "value": "-1"
     },
-    "name":"Attack",
-    "description":"You cant attck while docile"
+    "hidden":"true"
 }

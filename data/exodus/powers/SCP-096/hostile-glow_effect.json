@@ -8,7 +8,6 @@
           "amplifier": 9
         },
     "cooldown": 20,
-    "name":"Glow",
-    "description":"When an enemy hits you, not only do you become hostile, but they get glow effect"
+    "hidden":"true"
     }
 }

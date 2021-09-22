@@ -11,6 +11,5 @@
         "show_particles": false,
         "show_icon": false
     },
-    "name":"Slow",
-    "description":"you have permanent slowness due to being docile"
+    "hidden":"true"
 }

@@ -16,6 +16,5 @@
       "amplifier": 4,
 
     "cooldown": 20,
-    "name":"Distress",
-    "description":"When you are distressed you rage and get strength 10 and much more.."
+    "hidden":"true"
 }
