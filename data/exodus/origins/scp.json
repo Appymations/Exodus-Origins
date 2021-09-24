@@ -1,9 +1,9 @@
 {
   "powers": [
-    "exodus:SCP-096/hostile-glow_effect",
-    "exodus:SCP-096/docile-trigger_hostile",
-    "exodus:SCP-096/docile-slow_effect",
-    "exodus:SCP-096/docile-attack_damage"
+    "exodus:scp/hostile-glow_effect",
+    "exodus:scp/docile-trigger_hostile",
+    "exodus:scp/docile-slow_effect",
+    "exodus:scp/docile-attack_damage"
 
   ],
   "icon": "minecraft:command_block",
