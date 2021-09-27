@@ -1,13 +1,14 @@
 {
-    "type": "origins:attacker_action_when_hit",
-    "entity_action": {
-        "type": "origins:apply_effect",
-        "effects": {
-          "effect": "minecraft:glow",
-          "duration": 400,
-          "amplifier": 9
-        },
-    "cooldown": 20,
-    "hidden":"true"
+  "type": "origins:attacker_action_when_hit",
+"entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+        "effect": "minecraft:glowing",
+        "amplifier": 1,
+  "show_particles": false,
+        "duration": 200
     }
+  },
+  "hidden":true,
+  "cooldown":1
 }

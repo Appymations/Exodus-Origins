@@ -1,9 +1,16 @@
 {
-    "type": "origins:attribute",
+    "type": "origins:conditioned_attribute",
     "modifier": {
-        "attribute": "minecraft:generic.attackDamage",
-        "operation": "addition",
-        "value": "-1"
+        "attribute": "minecraft:generic.attack_Damage",
+        "operation": "multiply_total",
+        "value": -1,
+        "hidden":true
     },
-    "hidden":"true"
+    "condition": {
+        "type": "origins:status_effect",
+        "effect": "minecraft:strength",
+        "min_amplifier": 0,
+        "inverted":true,
+        "cooldown":1
+    }
 }

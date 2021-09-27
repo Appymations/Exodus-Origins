@@ -1,20 +1,28 @@
 {
-    "type": "origins:self_action_when_hit",
-    "entity_action": {
-        "type": "origins:apply_effect",
-        "effects": {
-          "effect": "minecraft:strength",
-          "duration": 400,
-          "amplifier": 9
-        },
-            "effect": "minecraft:resistance",
-            "duration": 400,
-            "amplifier": 4
+  "type": "origins:self_action_when_hit",
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effects": [
+      {
+        "effect": "minecraft:strength",
+        "duration": 200,
+        "amplifier": 9
       },
-      "effect": "minecraft:speed",
-      "duration": 400,
-      "amplifier": 4,
-
-    "cooldown": 20,
-    "hidden":"true"
+      {
+        "effect": "minecraft:resistance",
+        "duration": 200,
+        "amplifier": 4
+      },
+      {
+        "effect": "minecraft:speed",
+        "duration": 200,
+        "amplifier": 4
+      }
+    ]
+  },
+  "damage_condition": {
+    "type": "origins:attacker"
+  },
+  "hidden": true,
+  "cooldown":1
 }

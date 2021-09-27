@@ -3,7 +3,8 @@
     "exodus:scp/hostile-glow_effect",
     "exodus:scp/docile-trigger_hostile",
     "exodus:scp/docile-slow_effect",
-    "exodus:scp/docile-attack_damage"
+    "exodus:scp/docile-attack_damage",
+    "exodus:scp/no_armour"
 
   ],
   "icon": "minecraft:command_block",
